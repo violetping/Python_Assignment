@@ -1,0 +1,12 @@
+----------------------------------------
+           STUDENT PROFILE SYSTEM       
+----------------------------------------
+Name: Gaurav Kumar
+Roll No: 2501660010
+Course: BCA
+University: KRMU
+City: Delhi
+Age: 19
+Hobby: Coding
+----------------------------------------
+Welcome to Python Programming!
