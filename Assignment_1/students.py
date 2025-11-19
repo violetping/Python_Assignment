@@ -1,11 +1,11 @@
-# Name: [Your Full Name]
-# Roll No: [Your Roll Number]
+# Name: Gaurav Kumar 
+# Roll No: 2501660010
 # Course: BCA
 # Semester: 1st
 # Subject: Problem Solving with Python
 # Assignment: Unit-1 Mini Project
 # Title: Student Profile Console App
-# Date: [Insert Date]
+# Date: 19-11-2025
 
 # ------------------------------------------------------------
 # STUDENT PROFILE CONSOLE APP
